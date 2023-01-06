@@ -1,0 +1,44 @@
+.request{
+	margin: 10px auto;
+	height: 600px;
+	width: 800px;
+	border: 2px solid #e33e4f;
+	background-color: #ecd4c4;
+	border-radius: 20px 1px 10px 1px;
+	box-shadow: 8px -3px 10px 5px #e0e0e0;
+ 
+}
+.rqhed{
+	padding: 20px;
+}
+tr td{
+	font-family: 'Source Sans Pro', sans-serif;
+	width: 200px;
+	color: #000;
+
+}
+ .request tr td input{
+	height: 30px;
+	width: 200px;
+	outline: none;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+c
+ 
+.request form{
+	padding: 50px;
+	height: 400px;
+	width: 500px;
+}
+.request tr td button{
+	border: 0px;
+    background: linear-gradient(#900,#D50000);
+    width: 100px;
+    height: 30px;
+    border-radius: 10px 1px 10px 1px;
+    box-shadow: 1px 1px 5px black;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    text-shadow: 1px 1px 6px black;
+}

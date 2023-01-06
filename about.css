@@ -1,0 +1,42 @@
+.abut{
+	 
+	width: 100%;
+	height: 1200px;
+	background-color: #ecd4c4;
+ 
+	 
+}
+
+ .abt{
+ 	height: 1000px;
+ 	width: 100%;
+ }
+ .abt .al{
+ 	height: 1000px;
+ 	width: 60%;
+ 	float: left;
+ 	 
+ 	text-align: justify;
+ 	padding: 20px;
+ 	font-family: 'Source Sans Pro', sans-serif;
+ 	color: #e33e4f;
+ }
+ .abt .ar{
+ 	height: 1000px;
+ 	width: 40%;
+ 	float: right;
+ 	 
+ }
+ .ar .p1{
+ 	height: 350px;
+ 	width: 400px;
+ 	padding: 10px;
+ 	
+ }
+ 
+.ar .p2{
+ 	height: 650px;
+ 	width: 400px;
+ 	padding: 10px;
+ 	border: 2x solid #e33e4f;
+ }

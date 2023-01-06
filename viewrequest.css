@@ -1,0 +1,31 @@
+.vra{
+	margin: 10px auto;
+	height: 400px;
+	width: 900px;
+	border: 2px solid #e33e4f;
+	background-color: #ecd4c4;
+	border-radius: 20px 1px 10px 1px;
+	box-shadow: 8px -3px 10px 5px #e0e0e0;
+ 
+}
+.rqa{
+	 
+
+}
+ table{
+  margin: 10px auto;
+	height: 200px;
+	width: 800px;
+	text-align: center;
+ }
+ tr{
+ 	 
+ }
+ tr th{
+ 	font-family: 'Source Sans Pro', sans-serif;
+ 	 
+
+ }
+ .footer{
+ 	clear: both;
+ }

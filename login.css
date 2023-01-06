@@ -1,0 +1,65 @@
+.log-in{
+	margin: 100px auto;
+	height: 400px;
+	width: 800px;
+	border: 2px solid #e33e4f;
+	background-color: #ecd4c4;
+	border-radius: 20px 1px 10px 1px;
+	box-shadow: 8px -3px 10px 5px #e0e0e0;
+ 
+}
+.log-in .head{
+height: 150px;
+width: 100%;
+padding-left: 250px;
+padding-top: 20px;
+} 
+.log-in .head img{
+	 
+} 
+.log-in.foter{
+	height: 250px;
+	width: 800px;
+	background-color: red;
+}
+.lo-l{
+	width: 280px;
+	float: left;
+}
+.lo-r{
+	 
+	width: 500px;
+	float: right;
+}
+.lo-r tr{
+	height: 50px;
+}
+.lo-r tr td{
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+.lo-r tr td a{
+	text-decoration: none;
+	color: #e33e4f;
+}
+.lo-r tr td input{
+	height: 30px;
+	width: 200px;
+	outline: none;
+}
+.lo-r tr td button{
+	border: 0px;
+    background: linear-gradient(#900,#D50000);
+    width: 100px;
+    height: 30px;
+    border-radius: 10px 1px 10px 1px;
+    box-shadow: 1px 1px 5px black;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    text-shadow: 1px 1px 6px black;
+}
+ 
+
+
+ 

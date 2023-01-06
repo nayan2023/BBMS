@@ -1,0 +1,5 @@
+main color-#e33e4f
+seceond color-#ecd4c4
+footer color-#e9dcc9
+hover color-#e0e0e0,#805752
+font-family: 'Source Sans Pro', sans-serif;

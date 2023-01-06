@@ -1,0 +1,42 @@
+.contact{
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	height: 600px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: url(asset/f.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: sans-serif;
+	 
+}
+.cot td{
+	height: 30px;
+	width: 200px;
+	padding: 20px;
+	color: #e33e4f;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+.cot td input{
+	height: 30px;
+	width: 300px;
+	outline: none;
+	
+}
+.cot td button{
+	border: 0px;
+    background: linear-gradient(#900,#D50000);
+    width: 150px;
+    height: 40px;
+    border-radius: 10px 1px 10px 1px;
+    box-shadow: 1px 1px 5px black;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    text-shadow: 1px 1px 6px black;
+}
